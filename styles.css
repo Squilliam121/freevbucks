@@ -10,8 +10,8 @@
 }
 
 div * {
-    opacity: 0;
     animation: spinFade 3s ease-in-out forwards;
+    opacity: 0;
 }
 
 html, body{
