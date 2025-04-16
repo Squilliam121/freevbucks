@@ -10,6 +10,7 @@
 }
 
 div * {
+    opacity: 0;
     animation: spinFade 3s;
 }
 
