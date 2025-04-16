@@ -11,7 +11,7 @@
 
 div * {
     opacity: 0;
-    animation: spinFade 3s;
+    animation: spinFade 3s ease-in-out forwards;
 }
 
 html, body{
